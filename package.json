@@ -1,0 +1,10 @@
+{
+  "name": "score_to_grade",
+  "description": "Determine the letter grade from a given numeric score",
+  "private": true,
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:tamouse/score_to_grade.git",
+  "author": "Tamara Temple <tamouse@gmail.com> (https://github.com/tamouse)",
+  "license": "MIT"
+}
